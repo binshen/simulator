@@ -1,0 +1,11 @@
+{
+  "name": "simulator",
+  "version": "0.0.1",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-router": "^7.1.0",
+    "koa-views": "^6.0.1",
+    "koa-convert": "^1.2.0",
+    "ejs": "^2.5.6"
+  }
+}
